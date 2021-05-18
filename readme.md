@@ -9,6 +9,6 @@
 
 42 | My repository for my Push_swap project (Sorting algorithm using two stacks) at **42 school**
 
-Graded by students : **102%**
+Graded by students : **125%**
 
 **Educational purpose only, Do not copy any of theses files**
